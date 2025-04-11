@@ -64,43 +64,43 @@
 
 #### 🚀 Technologies Used
 
-Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, Sklearn)
+- Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, Sklearn)
 
-Machine Learning (Linear Regression, Clustering)
+- Machine Learning (Linear Regression, Clustering)
 
-Statistical Analysis (Correlation, Granger Causality)
+- Statistical Analysis (Correlation, Granger Causality)
 
-Jupyter Notebook for implementation
+- Jupyter Notebook for implementation
 
-📜 How to Run This Project
+#### 📜 How to Run This Project
 
-Clone the repository:
+- Clone the repository:
 
-git clone https://github.com/yourusername/your-repository.git
+- git clone https://github.com/yourusername/your-repository.git
 cd your-repository
 
-Install required dependencies:
+- Install required dependencies:
 
-pip install pandas numpy matplotlib seaborn scikit-learn isodate
+- pip install pandas numpy matplotlib seaborn scikit-learn isodate
 
-Run the Jupyter Notebook:
+- Run the Jupyter Notebook:
 
-jupyter notebook
+- jupyter notebook
 
-Open the analysis notebook and execute the cells.
+- Open the analysis notebook and execute the cells.
 
-📌 Future Improvements
+#### 📌 Future Improvements
 
-🔹 Incorporate deep learning models for better prediction accuracy.
-🔹 Use real-time CO₂ emission data for dynamic analysis.
-🔹 Implement interactive visualizations with Dash or Streamlit.
+- 🔹 Incorporate deep learning models for better prediction accuracy.
+- 🔹 Use real-time CO₂ emission data for dynamic analysis.
+- 🔹 Implement interactive visualizations with Dash or Streamlit.
 
-📞 Contact
+#### 📞 Contact
 
-For any queries or contributions, feel free to connect:
+- For any queries or contributions, feel free to connect:
 
-GitHub: yourusername
+- GitHub: ashu
 
-Email: your.email@example.com
+- Email: codeashu2@gmail.com
 
 🛑 Disclaimer: This project is for educational purposes and uses publicly available climate data.
