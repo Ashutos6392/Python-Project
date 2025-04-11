@@ -99,7 +99,7 @@ cd your-repository
 
 - For any queries or contributions, feel free to connect:
 
-- GitHub: ashu
+- GitHub:Ashutos6392
 
 - Email: codeashu2@gmail.com
 
