@@ -74,10 +74,7 @@
 
 #### 📜 How to Run This Project
 
-- Clone the repository:
-
-- git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+- Clone the repository
 
 - Install required dependencies:
 
